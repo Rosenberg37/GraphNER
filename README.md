@@ -136,4 +136,12 @@ python main.py --dataset_name=conll2003 --evaluate=test --concat --pretrain_sele
 ## Reference
 
 If you have any questions related to the code or the paper or the copyright, please email `wenxr2119@mails.jlu.edu.cn`.
-
+We would appreciate it if you cite our paper as following:
+```
+@article{wen2022graph,
+  title={Type-supervised sequence labeling based on the heterogeneous star graph for named entity recognition},
+  author={Xueru Wen, Changjiang Zhou, Haotian Tang, Luguang Liang, Yu Jiang, Hong Qi},
+  journal={arXiv preprint arXiv:2210.10240},
+  year={2022}
+}
+```
