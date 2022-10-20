@@ -1,6 +1,6 @@
 # README
 
-Code for "**Type-supervised sequence labeling based on the heterogeneous star graph for named entity recognition**".
+Code for "**Type-supervised sequence labeling based on the heterogeneous star graph for named entity recognition**". Details and paper please check [here](https://arxiv.org/abs/2210.10240).
 
 ![](./assets/framework.png)
 
